@@ -25,7 +25,9 @@ export const sortEvents = (events) => {
 
 export const getFilteredEvents = (events, filters, summitTimezone) => {
 
-  return events.filter(ev => {
+  const allowedEvents = events.filter(ev => !ev.tags.map(t => t.tag).includes('POC'))
+
+  return allowedEvents.filter(ev => {
     let valid = true;
 
     if (filters.date?.values.length > 0) {
