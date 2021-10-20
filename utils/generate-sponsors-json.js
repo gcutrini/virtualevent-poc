@@ -19,7 +19,6 @@ jq.run( '[.tiers[]["name"]]', sponsorsTiersFilePath, {})
   .then((output) => {
     try {
       const sponsorsTiersOrder = JSON.parse(output)
-      //const filter = '{ tierSponsors: [ group_by(.tier)[] | { tier: map(.tier) | flatten | unique, sponsors: map(del(.tier)) } ] }'
       const filter = '[ group_by(.tier)[] | { tier: map(.tier) | flatten | unique, sponsors: sort_by(.order) | map(del(.tier)) } ]'
       const sponsorFiles = listFiles(sponsorsPath)
       const options = { slurp: true }

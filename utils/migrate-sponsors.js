@@ -7,9 +7,6 @@ const sponsorsFilepath = '../src/content/sponsors.json';
 const sponsorsPath = '../src/content/sponsors';
 
 const filter = 'flatten | map({ tier } + (.sponsors | to_entries | map({ order: .key } + .value))[])'
-//flatten | map(.tier as $tier | { tier: $tier } + .sponsors[] )
-//flatten | map(. as { tier: $tier, sponsors: $sponsors } | { tier, sponsors: $sponsors | to_entries | map({ order: .key } + .value) } )
-//flatten | map(.sponsors as $sponsors | { tier, sponsors: $sponsors | to_entries | map({ order: .key } + .value) } )
 jq.run(filter, sponsorsFilepath, {})
   .then((output) => {
     try {
