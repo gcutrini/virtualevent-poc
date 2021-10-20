@@ -246,66 +246,62 @@ collections:
       - {label: "User Requirement", name: userRequirement, widget: select, options: ["NONE", "LOGGED_IN", "HAS_TICKET"], default: "NONE"}
       - {label: "Body", name: body, widget: markdown}
   - name: "sponsors"
-    label: "Sponsors Data"
+    label: "Sponsors"
+    folder: "src/content/sponsors"
+    create: true
+    identifier_field: name
+    format: json
     editor:
       preview: false
-    files:
-      - file: "src/content/sponsors.json"
-        label: "Tier Sponsors"
-        name: "tierSponsors"
-        fields:
-          - {label: "Tier Sponsors", name: "tierSponsors", widget: list, summary: "{{tier[0].label}}", fields: [
-              {label: "Tier", name: "tier", widget: ncw-file-relation, collection: configurations, file: sponsorsTiers, target_field: tiers, id_field: id, display_fields: name},
-              {label: "Sponsors", name: "sponsors", widget: list, fields: [
-                {label: "Name", name: "name", widget: string },
-                {label: "External ID", name: "id", widget: number },
-                {label: "Sponsor ID", name: "sponsorId", widget: number, required: false },
-                {label: "Company ID", name: "companyId", widget: number, required: false },
-                {label: "Featured Event ID", name: "featuredEventId", widget: number, required: false },
-                {label: "Title", name: "title", widget: string, required: false },
-                {label: "Intro", name: "intro", widget: markdown, required: false },
-                {label: "Contact Email", name: "email", widget: string, required: false },
-                {label: "Live Video Chat Link", name: "chatLink", widget: string, required: false },
-                {label: "Marquee Text", name: "marquee", widget: string, required: false },
-                {label: "Sponsor Color", name: "sponsorColor", widget: string, required: false },
-                {label: "Logo", name: "logo", widget: image },
-                {label: "Advertise Image", name: "advertiseImage", widget: image, required: false, default: '' },
-                {label: "External Link", name: "externalLink", widget: string, required: false },
-                {label: "Social Networks", name: "socialNetworks", widget: list, fields: [
-                  {label: "Icon", name: "icon", widget: string},
-                  {label: "Link", name: "link", widget: string},
-                  {label: "Display", name: "display", widget: boolean, required: false},
-                ]},
-                {label: "Documents", name: "documents", widget: object, fields: [
-                  {label: "Slides", name: "slides", widget: list, fields: [
-                    {label: "Class Name", name: class_name, widget: hidden, default: "PresentationSlide"},
-                    {label: "Name", name: name, widget: string},
-                    {label: "Order", name: order, widget: number},
-                    {label: "Link", name: link, widget: file, default: "/documents/" }
-                  ]},
-                  {label: "Links", name: "links", widget: list, fields: [
-                    {label: "Class Name", name: class_name, widget: hidden, default: "PresentationLink"},
-                    {label: "Name", name: name, widget: string},
-                    {label: "Order", name: order, widget: number},
-                    {label: "Link", name: link, widget: string}
-                  ]},
-                  {label: "Videos", name: "videos", widget: list, fields: [
-                    {label: "Class Name", name: class_name, widget: hidden, default: "PresentationVideo"},
-                    {label: "Name", name: name, widget: string},
-                    {label: "Order", name: order, widget: number},
-                    {label: "Link", name: link, widget: string}
-                  ]},
-                ]},
-                {label: "Ads", name: "columnAds", widget: list, required: false, fields: [
-                  {label: "Image", name: "image", widget: image},
-                  {label: "Button Text", name: "text", widget: string, required: false},
-                  {label: "Link", name: "link", widget: string, required: false}                  
-                ]},
-                {label: "Uses Sponsor Page?", name: "usesSponsorPage", widget: boolean, required: false },
-                {label: "Header Image", name: "headerImage", widget: image, required: false },
-                {label: "Mobile Header Image", name: "headerImageMobile", widget: image, required: false },
-                {label: "Side Image", name: "sideImage", widget: image, required: false },
-                {label: "Video Header", name: "headerVideo", widget: string, required: false },
-                {label: "Show Logo in Event Page", name: "showLogoInEventPage", widget: boolean, required: false, default: true },
-              ]}              
-            ]}
+    fields:
+      - {label: "Sponsor Tier", name: "tier", widget: ncw-file-relation, collection: configurations, file: sponsorsTiers, target_field: tiers, id_field: id, display_fields: name, multiple: false }
+      - {label: "Name", name: "name", widget: string }
+      - {label: "External ID", name: "id", widget: number }
+      - {label: "Sponsor ID", name: "sponsorId", widget: number, required: false }
+      - {label: "Company ID", name: "companyId", widget: number, required: false }
+      - {label: "Featured Event ID", name: "featuredEventId", widget: number, required: false }
+      - {label: "Title", name: "title", widget: string, required: false }
+      - {label: "Intro", name: "intro", widget: markdown, required: false }
+      - {label: "Contact Email", name: "email", widget: string, required: false }
+      - {label: "Live Video Chat Link", name: "chatLink", widget: string, required: false }
+      - {label: "Marquee Text", name: "marquee", widget: string, required: false }
+      - {label: "Sponsor Color", name: "sponsorColor", widget: string, required: false }
+      - {label: "Logo", name: "logo", widget: image }
+      - {label: "Advertise Image", name: "advertiseImage", widget: image, required: false, default: '' }
+      - {label: "External Link", name: "externalLink", widget: string, required: false }
+      - {label: "Social Networks", name: "socialNetworks", widget: list, fields: [
+          {label: "Icon", name: "icon", widget: string},
+          {label: "Link", name: "link", widget: string},
+          {label: "Display", name: "display", widget: boolean, required: false},
+        ]}
+      - {label: "Documents", name: "documents", widget: object, fields: [
+          {label: "Slides", name: "slides", widget: list, fields: [
+            {label: "Class Name", name: class_name, widget: hidden, default: "PresentationSlide"},
+            {label: "Name", name: name, widget: string},
+            {label: "Order", name: order, widget: number},
+            {label: "Link", name: link, widget: file, default: "/documents/" }
+          ]},
+          {label: "Links", name: "links", widget: list, fields: [
+            {label: "Class Name", name: class_name, widget: hidden, default: "PresentationLink"},
+            {label: "Name", name: name, widget: string},
+            {label: "Order", name: order, widget: number},
+            {label: "Link", name: link, widget: string}
+          ]},
+          {label: "Videos", name: "videos", widget: list, fields: [
+            {label: "Class Name", name: class_name, widget: hidden, default: "PresentationVideo"},
+            {label: "Name", name: name, widget: string},
+            {label: "Order", name: order, widget: number},
+            {label: "Link", name: link, widget: string}
+          ]},
+        ]}
+      - {label: "Ads", name: "columnAds", widget: list, required: false, fields: [
+          {label: "Image", name: "image", widget: image},
+          {label: "Button Text", name: "text", widget: string, required: false},
+          {label: "Link", name: "link", widget: string, required: false}
+        ]}
+      - {label: "Uses Sponsor Page?", name: "usesSponsorPage", widget: boolean, required: false }
+      - {label: "Header Image", name: "headerImage", widget: image, required: false }
+      - {label: "Mobile Header Image", name: "headerImageMobile", widget: image, required: false }
+      - {label: "Side Image", name: "sideImage", widget: image, required: false }
+      - {label: "Video Header", name: "headerVideo", widget: string, required: false }
+      - {label: "Show Logo in Event Page", name: "showLogoInEventPage", widget: boolean, required: false, default: true }
