@@ -3,8 +3,8 @@ const path = require('path')
 const jq = require('node-jq')
 const kebabCase = require('lodash.kebabcase');
 
-const sponsorsFilepath = 'src/content/sponsors.json';
-const sponsorsPath = 'src/content/sponsors';
+const sponsorsFilepath = '../src/content/sponsors.json';
+const sponsorsPath = '../src/content/sponsors';
 
 const filter = 'flatten | map({ tier } + (.sponsors | to_entries | map({ order: .key } + .value))[])'
 //flatten | map(.tier as $tier | { tier: $tier } + .sponsors[] )
