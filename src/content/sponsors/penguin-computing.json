@@ -1,0 +1,92 @@
+{
+  "tier": [
+    {
+      "value": "tier-Wqd0Qqef7",
+      "label": "Sapphire"
+    }
+  ],
+  "order": 12,
+  "marquee": "Expanding the world's vision of what is possible!",
+  "logo": "/img/ocp21glo_fnv_sponsorlogo-penguin.png",
+  "name": "Penguin Computing",
+  "intro": "Penguin Computing specializes in custom, innovative, open solutions for AI, HPC, Data Center, and the Cloud. Penguin Computing provides hardware and software solutions built on both 19” and 21” OCP infrastructures. Founded twenty years ago by the team that created the original beowulf cluster, Penguin Computing has been integral to the development of modern HPC and data center technologies. Today, Penguin Computing focuses on four key areas, High-performance Computing, Artificial Intelligence, Software-defined Storage, and Cloud Computing solutions.",
+  "headerVideo": "https://fntech.sfo2.cdn.digitaloceanspaces.com/OCPGlobalSummitandSymposium2021/Videos/penguin_computing_Customized%20Solutions%20-%20Gemini%20Man%20Storage%20by%20Penguin%20Computing.mp4",
+  "headerImage": "/img/penguin_computing_expanding-word-vision-of-what-s-possible-banner-2-.jpg",
+  "headerImageMobile": "/img/penguin_computing_expanding-word-vision-of-what-s-possible-banner-2-.jpg",
+  "advertiseImage": "",
+  "sponsorId": 54,
+  "title": "Penguin Computing",
+  "companyId": 49,
+  "documents": {
+    "slides": [
+      {
+        "class_name": "PresentationSlide",
+        "link": "/img/penguin_computing_truehpc-solution-brief.pdf",
+        "order": 5,
+        "name": "TrueHPC Solution Brief"
+      },
+      {
+        "class_name": "PresentationSlide",
+        "link": "/img/penguin_computing_truehpc-solution-brief-intel_cooling_power_update-v4.pdf",
+        "name": "TrueHPC Solution Brief Intel_Cooling_Power",
+        "order": 6
+      },
+      {
+        "class_name": "PresentationSlide",
+        "link": "/img/penguin_computing_relionxo1222e-datasheet.pdf",
+        "name": "relionxo1222e-datasheet",
+        "order": 7
+      },
+      {
+        "class_name": "PresentationSlide",
+        "link": "/img/penguin_computing_smart-kestral™-fpga-accelerator-with-intel®-optane™-technical-brief.pdf",
+        "name": "SMART Kestral™ FPGA Accelerator with Intel® Optane™ Technical Brie",
+        "order": 8
+      }
+    ],
+    "links": [
+      {
+        "class_name": "PresentationLink",
+        "link": "https://www.penguincomputing.com/",
+        "name": "Penguin Computing Website ",
+        "order": 1
+      },
+      {
+        "class_name": "PresentationLink",
+        "link": "https://www.linkedin.com/company/penguin-computing",
+        "order": 2,
+        "name": "LinkedIn"
+      },
+      {
+        "class_name": "PresentationLink",
+        "link": "https://www.youtube.com/channel/UCgvb_EhxI5hG_PttNqDoj4Q",
+        "order": 3,
+        "name": "YouTube"
+      },
+      {
+        "class_name": "PresentationLink",
+        "link": "https://twitter.com/PenguinHPC",
+        "order": 4,
+        "name": "Twitter "
+      }
+    ],
+    "videos": [
+      {
+        "class_name": "PresentationVideo",
+        "link": "https://fntech.sfo2.cdn.digitaloceanspaces.com/OCPGlobalSummitandSymposium2021/Videos/penguin_computing_Gemini%20Man%20Case%20Study%20-%20SDS%20Storage%20with%20Penguin%20Computing.mp4",
+        "name": "Gemini Man Case Study - SDS Storage with Penguin Computing",
+        "order": 9
+      },
+      {
+        "class_name": "PresentationVideo",
+        "name": "Digital Transformation for HPC and AI",
+        "order": 10,
+        "link": "https://fntech.sfo2.cdn.digitaloceanspaces.com/OCPGlobalSummitandSymposium2021/Videos/penguin_computing_Digital%20Transformation%20for%20HPC%20and%20AI.mp4"
+      }
+    ]
+  },
+  "columnAds": [],
+  "id": 54,
+  "email": "kwah@penguincomputing.com",
+  "usesSponsorPage": true
+}

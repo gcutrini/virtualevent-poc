@@ -1,0 +1,19 @@
+{
+  "tier": [
+    {
+      "value": "tier-yeJ3xH65E",
+      "label": "Start-up"
+    }
+  ],
+  "order": 1,
+  "logo": "/img/ocp21glo_fnv_sponsorlogo-kameleonsecurity.png",
+  "name": "Kameleon Security",
+  "intro": "Kameleon Security is exhibiting in-person at the Global Summit in San Jose, CA. You can find us at booth C26 or reach us through the \"contact us\" button above.",
+  "advertiseImage": "",
+  "sponsorId": 104,
+  "companyId": 90,
+  "id": 104,
+  "showLogoInEventPage": false,
+  "email": "info@kameleonsec.com",
+  "usesSponsorPage": true
+}

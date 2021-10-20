@@ -1,0 +1,14 @@
+{
+  "tier": [
+    {
+      "value": "tier-cYGYq5-ae",
+      "label": "Diamond"
+    }
+  ],
+  "order": 0,
+  "advertiseImage": "",
+  "showLogoInEventPage": false,
+  "name": "Diamond Level",
+  "logo": "/img/ocp21glo_fnv_sponsorlogo-diamond.png",
+  "id": 119
+}

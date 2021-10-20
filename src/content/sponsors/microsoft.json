@@ -1,0 +1,109 @@
+{
+  "tier": [
+    {
+      "value": "tier-cYGYq5-ae",
+      "label": "Diamond"
+    }
+  ],
+  "order": 6,
+  "marquee": "Welcome to the Microsoft Azure booth. Open hardware for a sustainable future. Learn more at aka.ms/OCP2021.",
+  "sponsorColor": "#50E6FF",
+  "logo": "/img/microsoft_microsoft-logo-484x484.png",
+  "name": "Microsoft",
+  "intro": "#### Microsoft enables digital transformation for the era of an intelligent cloud and an intelligent edge. Its mission is to empower every person and every organization on the planet to achieve more.",
+  "headerImage": "/img/microsoft_microsoft-ocp-virtual-booth-1440x400.png",
+  "headerImageMobile": "/img/microsoft_microsoft-ocp-virtual-booth-768x250.png",
+  "advertiseImage": "/img/microsoft_microsoft-ocp-sponsorad-484x484.png",
+  "sponsorId": 56,
+  "title": "Microsoft ",
+  "companyId": 10,
+  "documents": {
+    "links": [
+      {
+        "class_name": "PresentationLink",
+        "link": "https://twitter.com/Azure",
+        "order": 1,
+        "name": "Twitter Azure"
+      },
+      {
+        "class_name": "PresentationLink",
+        "link": "https://twitter.com/microsoft",
+        "order": 2,
+        "name": "Twitter Microsoft"
+      },
+      {
+        "class_name": "PresentationLink",
+        "link": "https://www.linkedin.com/company/microsoft/",
+        "order": 3,
+        "name": "Linked"
+      },
+      {
+        "class_name": "PresentationLink",
+        "link": "https://www.youtube.com/channel/UC0m-80FnNY2Qb7obvTL_2fA",
+        "order": 4,
+        "name": "Youtube"
+      }
+    ],
+    "slides": [
+      {
+        "class_name": "PresentationSlide",
+        "link": "/img/microsoft_liquid-immersion-cooling.pdf",
+        "name": "Microsoft Liquid Immersion - Real tech ready to power the future of AI",
+        "order": 5
+      },
+      {
+        "class_name": "PresentationSlide",
+        "link": "/img/microsoft_clean-fuels.pdf",
+        "name": "Microsoft Clean Fuels - On the road to net-zero, green backup is a big step forward",
+        "order": 6
+      },
+      {
+        "class_name": "PresentationSlide",
+        "link": "/img/microsoft_grid-interactive-batteries.pdf",
+        "name": "Microsoft Grid Interactive Batteries - How small steps power big sustainability goals",
+        "order": 7
+      },
+      {
+        "class_name": "PresentationSlide",
+        "link": "/img/microsoft_the-carbon-benefits-of-cloud-computing.pdf",
+        "order": 8,
+        "name": "The carbon benefits of cloud computing."
+      }
+    ],
+    "videos": [
+      {
+        "class_name": "PresentationVideo",
+        "link": "https://fntech.sfo2.cdn.digitaloceanspaces.com/OCPGlobalSummitandSymposium2021/Videos/microsoft_Liquid%20Immersion%20Cooling.mp4",
+        "order": 9,
+        "name": "Liquid Immersion Cooling"
+      },
+      {
+        "class_name": "PresentationVideo",
+        "link": "https://fntech.sfo2.cdn.digitaloceanspaces.com/OCPGlobalSummitandSymposium2021/Videos/microsoft_Building%20the%20world%E2%80%99s%20computer%20with%20Microsoft%20Datacenters.mp4",
+        "order": 10,
+        "name": "Microsoft Circular Centers"
+      },
+      {
+        "class_name": "PresentationVideo",
+        "link": "https://fntech.sfo2.cdn.digitaloceanspaces.com/OCPGlobalSummitandSymposium2021/Videos/microsoft_Microsoft%20Circular%20Centers.mp4",
+        "order": 11,
+        "name": "Building the world’s computer with Microsoft Datacenters"
+      },
+      {
+        "class_name": "PresentationVideo",
+        "link": "https://fntech.sfo2.cdn.digitaloceanspaces.com/OCPGlobalSummitandSymposium2021/Videos/microsoft_Microsoft%20Azure%20Global%20Infrastructure.mp4",
+        "order": 12,
+        "name": "Microsoft Azure Global Infrastructure"
+      }
+    ]
+  },
+  "columnAds": [
+    {
+      "image": "/img/microsoft_microsoft-ocp-sponsorad-484x484.png",
+      "link": "https://www.bing.com/?ref=aka&shorturl=OCP2021"
+    }
+  ],
+  "id": 56,
+  "email": "OCP2021.microsoft.com",
+  "usesSponsorPage": true
+}

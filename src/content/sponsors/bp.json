@@ -1,0 +1,17 @@
+{
+  "tier": [
+    {
+      "value": "tier-U_wEwGX8a",
+      "label": "Ruby"
+    }
+  ],
+  "order": 3,
+  "advertiseImage": "",
+  "name": "bp",
+  "id": 72,
+  "sponsorId": 72,
+  "logo": "/img/ocp21glo_fnv_sponsorlogo-bp.png",
+  "companyId": 59,
+  "usesSponsorPage": true,
+  "intro": "bp"
+}

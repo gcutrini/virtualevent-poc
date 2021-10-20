@@ -1,0 +1,71 @@
+{
+  "tier": [
+    {
+      "value": "tier-cYGYq5-ae",
+      "label": "Diamond"
+    }
+  ],
+  "order": 7,
+  "marquee": "",
+  "sponsorColor": "#1428A0",
+  "logo": "/img/ocp21glo_fnv_sponsorlogo-samsung.png",
+  "name": "Samsung ",
+  "intro": "#### Samsung Semiconductor, Inc is a multi-billion dollar subsidiary of Samsung Electronics Corp. The organization provides the world’s most advanced technology for use in smartphones, consumer electronics, computing platforms and other devices that people use every day. As a major vendor of state-of-the-art memory, logic, and SSD components to the hi-tech industry overall, it is also proud to offer its products to customers seeking OCP-compliant solutions.",
+  "headerImage": "/img/ocp21glo-fnv-sponsorbooth-samsung-header_v3.png",
+  "headerImageMobile": "/img/ocp21glo-fnv-sponsorbooth-samsung-header-mobile.png",
+  "advertiseImage": "",
+  "sponsorId": 60,
+  "title": "Samsung ",
+  "companyId": 40,
+  "documents": {
+    "links": [
+      {
+        "class_name": "PresentationLink",
+        "link": "https://samsungsemiconductor-us.com/where-latency-dares-not-tread-how-high-powered-ssds-enable-novel-storage-architecture/ ",
+        "name": "Dropbox",
+        "order": 1
+      },
+      {
+        "class_name": "PresentationLink",
+        "link": "https://samsungsemiconductor-us.com/compute-power-to-the-people-democratizing-ai-a-conversation-with-ai-visionaries-from-sambanova-systems/ ",
+        "name": "DDR5 (Sambanova)",
+        "order": 2
+      },
+      {
+        "class_name": "PresentationLink",
+        "link": "https://www.samsungsemiconstory.com/global/samsung-unveils-industry-first-memory-module-incorporating-new-cxl-interconnect-standard/",
+        "name": "CXL press release",
+        "order": 3
+      },
+      {
+        "class_name": "PresentationLink",
+        "link": "HBM White Paper site (w/ HBM2e content)",
+        "order": 4,
+        "name": "https://samsungsemiconductor-us.com/hbm/"
+      },
+      {
+        "class_name": "PresentationLink",
+        "name": "HBM-PIM (Aquabolt-XL)",
+        "order": 5,
+        "link": "https://news.samsung.com/us/samsung-hbm-pim-in-memory-processing-wider-range-applications/ "
+      },
+      {
+        "class_name": "PresentationLink",
+        "name": "ZNS",
+        "order": 7,
+        "link": "https://news.samsung.com/global/samsung-introduces-its-first-zns-ssd-with-maximized-user-capacity-and-enhanced-lifespan"
+      },
+      {
+        "class_name": "PresentationLink",
+        "link": "https://samsungsemiconductor-us.com/smartssd-archive/pdf/SmartSSD_ProductBrief_13.pdf",
+        "order": 8,
+        "name": "SmartSSD "
+      }
+    ],
+    "videos": []
+  },
+  "id": 60,
+  "showLogoInEventPage": false,
+  "email": "events@ssi.samsung.com",
+  "usesSponsorPage": true
+}

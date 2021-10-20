@@ -1,0 +1,91 @@
+{
+  "tier": [
+    {
+      "value": "tier-Wqd0Qqef7",
+      "label": "Sapphire"
+    }
+  ],
+  "order": 7,
+  "marquee": "12.8Tb User Programmable Switches, 5G Ready Cell Site Gateways, Scalable Fixed Broadband Aggregation.",
+  "sponsorColor": "#284974",
+  "logo": "/img/ocp21glo_fnv_sponsorlogo-edgecore.png",
+  "name": "Edgecore Networks",
+  "intro": "Edgecore Networks Corporation is a wholly owned subsidiary of Accton Technology Corporation, the leading network ODM. Edgecore Networks delivers wired and wireless networking products and solutions through channel partners and system integrators worldwide for Data Center, Service Provider, Enterprise and SMB customers. Edgecore Networks is the leader in open networking, providing a full line of open 1G-400G Ethernet OCP Accepted™ switches, core routers, cell site gateways, virtual PON OLTs, packet transponders, and Wi-Fi access points that offer choice of commercial and open source NOS and SDN software.",
+  "headerImage": "/img/edgecore_networks_welcome_1_1440x400.jpg",
+  "headerImageMobile": "/img/edgecore_networks_welcome_mobile_768x250.jpg",
+  "advertiseImage": "",
+  "sponsorId": 50,
+  "title": "Edgecore Networks",
+  "companyId": 46,
+  "documents": {
+    "links": [
+      {
+        "class_name": "PresentationLink",
+        "link": "https://www.linkedin.com/company/edge-core-networks",
+        "name": "LinkedIn",
+        "order": 1
+      },
+      {
+        "class_name": "PresentationLink",
+        "link": "https://www.facebook.com/EdgecoreNetworks/",
+        "name": "Facebook",
+        "order": 2
+      },
+      {
+        "class_name": "PresentationLink",
+        "link": "https://twitter.com/EdgecoreNetwork",
+        "name": "Twitter",
+        "order": 3
+      }
+    ],
+    "slides": [
+      {
+        "class_name": "PresentationSlide",
+        "link": "/img/edgecore_networks_high-performance-programmable-400g-100g-switch-solution.pdf",
+        "name": "High-Performance, Programmable 400G & 100G Switch Solution",
+        "order": 5
+      },
+      {
+        "class_name": "PresentationSlide",
+        "link": "/img/edgecore_networks_brochure_telco.pdf",
+        "name": "brochure_telco",
+        "order": 6
+      }
+    ],
+    "videos": [
+      {
+        "class_name": "PresentationVideo",
+        "link": "https://fntech.sfo2.cdn.digitaloceanspaces.com/OCPGlobalSummitandSymposium2021/Videos/edgecore_networks_EdgeCore_SONiC_0527_Final_42mb.mp4",
+        "order": 10,
+        "name": "EdgeCore SONiC"
+      },
+      {
+        "class_name": "PresentationVideo",
+        "link": "https://fntech.sfo2.cdn.digitaloceanspaces.com/OCPGlobalSummitandSymposium2021/Videos/edgecore_networks_Cell%20site%20gateway%20CF%202021_ocp_tp_49mb.mp4",
+        "order": 11,
+        "name": "Cell site gateway"
+      },
+      {
+        "class_name": "PresentationVideo",
+        "link": "https://fntech.sfo2.cdn.digitaloceanspaces.com/OCPGlobalSummitandSymposium2021/Videos/edgecore_networks_DCS810%20AS9516-32D%20video%20OK_.mp4",
+        "order": 12,
+        "name": "DCS810 AS9516-32D"
+      },
+      {
+        "class_name": "PresentationVideo",
+        "name": "EC OCP presentation",
+        "order": 13,
+        "link": "https://fntech.sfo2.cdn.digitaloceanspaces.com/OCPGlobalSummitandSymposium2021/Videos/edgecore_networks_EC%20OCP%2015%20mins%20presentation%20FHD_2_s.mp4"
+      }
+    ]
+  },
+  "columnAds": [
+    {
+      "image": "/img/edgecore_networks_2021-ocp-global-summit-484-sonic-logo-2.jpg",
+      "link": "https://www.edge-core.com/productsList.php?cls=509&cls2=510"
+    }
+  ],
+  "id": 50,
+  "email": "sales@edge-core.com",
+  "usesSponsorPage": true
+}

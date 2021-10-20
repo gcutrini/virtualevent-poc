@@ -1,0 +1,122 @@
+{
+  "tier": [
+    {
+      "value": "tier-U_wEwGX8a",
+      "label": "Ruby"
+    }
+  ],
+  "order": 2,
+  "marquee": "Discover the Power of One with Arrcus Connected Edge (ACE) - One Simple Network, One Scalable Architecture, One Seamless Experience",
+  "sponsorColor": "#045DA3",
+  "logo": "/img/arrcus_inc_arrcus-logo-tagline-484x484.png",
+  "name": "Arrcus",
+  "intro": "Arrcus was founded to enhance business efficiency through superior network connectivity. The Arrcus Connected Edge (ACE) platform offers best-in-class networking with the most flexible consumption model at the lowest total cost of ownership. The Arrcus team consists of world-class technologists who have an unparalleled record in shipping industry-leading networking products, complemented by industry thought leaders, operating executives, strategic partners, and top-tier VCs. For more information, go to www.arrcus.com or follow @arrcusinc.",
+  "headerImage": "/img/arrcus_inc_arrcus-ocp-welcome-static-image.png",
+  "headerImageMobile": "/img/arrcus_inc_arrcus-ocp-mobile-static-image.png",
+  "chatLink": "https://arrcus.zoom.us/j/98109522847?pwd=bC9vRjA4NmI2UUVmRmJiQ0h5YkEzZz09",
+  "advertiseImage": "/img/arrcus_inc_arrcus-ocp-virtual-lobby-ad.png",
+  "sponsorId": 70,
+  "title": "Arrcus",
+  "companyId": 57,
+  "documents": {
+    "links": [
+      {
+        "class_name": "PresentationLink",
+        "link": "https://twitter.com/arrcusinc",
+        "order": 1,
+        "name": "Twitter"
+      },
+      {
+        "class_name": "PresentationLink",
+        "link": "https://www.linkedin.com/company/arrcus-inc",
+        "order": 2,
+        "name": "LinkedIN"
+      }
+    ],
+    "slides": [
+      {
+        "class_name": "PresentationSlide",
+        "link": "/img/arrcus_inc_arrcus-ip-clos-networks-white-paper.pdf",
+        "name": "Arrcus IP Clos Networks White Paper",
+        "order": 5
+      },
+      {
+        "class_name": "PresentationSlide",
+        "link": "/img/arrcus_inc_arrcus-open-mlag-solution-brief.pdf",
+        "name": "Arrcus Open MLAG Solution Brief",
+        "order": 6
+      },
+      {
+        "class_name": "PresentationSlide",
+        "link": "/img/arrcus_inc_arrcus-l3vpn-over-srv6-solution-brief.pdf",
+        "name": "Arrcus L3VPN over SRv6 Solution Brief",
+        "order": 7
+      },
+      {
+        "class_name": "PresentationSlide",
+        "link": "/img/arrcus_inc_arrcus-vdr-solution-brief.pdf",
+        "name": "Arrcus VDR Solution Brief",
+        "order": 8
+      },
+      {
+        "class_name": "PresentationSlide",
+        "link": "/img/arrcus_inc_arrcus-mcn-solution-brief.pdf",
+        "name": "Arrcus MCN Solution Brief",
+        "order": 9
+      },
+      {
+        "class_name": "PresentationSlide",
+        "link": "/img/arrcus_inc_arrcus-bgp-evpn-solution-brief.pdf",
+        "name": "Arrcus BGP-EVPN Solution Brief",
+        "order": 10
+      }
+    ],
+    "videos": [
+      {
+        "class_name": "PresentationVideo",
+        "link": "https://fntech.sfo2.cdn.digitaloceanspaces.com/OCPGlobalSummitandSymposium2021/Videos/arrcus_inc_Arrcus%20Company%20Overview.mp4",
+        "name": "Arrcus Company Overview",
+        "order": 10
+      },
+      {
+        "class_name": "PresentationVideo",
+        "link": "https://fntech.sfo2.cdn.digitaloceanspaces.com/OCPGlobalSummitandSymposium2021/Videos/arrcus_inc_Arrcus%20-%20Enabling%20NaaS%20for%205G%20Mobile%20and%20Edge.mp4",
+        "order": 11,
+        "name": "Arrcus - Enabling NaaS for 5G Mobile and Edge"
+      },
+      {
+        "class_name": "PresentationVideo",
+        "link": "https://fntech.sfo2.cdn.digitaloceanspaces.com/OCPGlobalSummitandSymposium2021/Videos/arrcus_inc_Arrcus%20Open%20MLAG%20Demo.mp4",
+        "order": 12,
+        "name": "Arrcus Open MLAG Dem"
+      },
+      {
+        "class_name": "PresentationVideo",
+        "link": "https://fntech.sfo2.cdn.digitaloceanspaces.com/OCPGlobalSummitandSymposium2021/Videos/arrcus_inc_Introducing%20Arrcus%20VDR%20-%20The%20Virtualized%20Distributed%20Router.mp4",
+        "order": 13,
+        "name": "Introducing Arrcus VDR - The Virtualized Distributed Router"
+      },
+      {
+        "class_name": "PresentationVideo",
+        "link": "https://fntech.sfo2.cdn.digitaloceanspaces.com/OCPGlobalSummitandSymposium2021/Videos/arrcus_inc_Arrcus%20VDR%20-%20Building%20Blocks.mp4",
+        "order": 14,
+        "name": "Arrcus VDR - Building Block"
+      },
+      {
+        "class_name": "PresentationVideo",
+        "link": "https://fntech.sfo2.cdn.digitaloceanspaces.com/OCPGlobalSummitandSymposium2021/Videos/arrcus_inc_Introducing%20Arrcus%20MCN%20Platform.mp4",
+        "name": "Introducing Arrcus MCN Platform",
+        "order": 15
+      }
+    ]
+  },
+  "columnAds": [
+    {
+      "image": "/img/arrcus_inc_arrcus-ocp-virtual-sponsor-ad.png",
+      "link": "https://www.arrcus.com"
+    }
+  ],
+  "id": 70,
+  "email": "bradb@arrcus.com",
+  "usesSponsorPage": true
+}

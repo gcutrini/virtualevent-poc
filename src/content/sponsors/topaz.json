@@ -1,0 +1,15 @@
+{
+  "tier": [
+    {
+      "value": "tier-x0OjdDZTs",
+      "label": "Topaz"
+    }
+  ],
+  "order": 0,
+  "advertiseImage": "",
+  "showLogoInEventPage": false,
+  "name": "Topaz",
+  "logo": "/img/ocp21glo_fnv_sponsorlogo-topaz.png",
+  "id": 128,
+  "sponsorId": 128
+}

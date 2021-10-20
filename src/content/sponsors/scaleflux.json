@@ -1,0 +1,18 @@
+{
+  "tier": [
+    {
+      "value": "tier-Wqd0Qqef7",
+      "label": "Sapphire"
+    }
+  ],
+  "order": 15,
+  "logo": "/img/ocp21glo_fnv_sponsorlogo-scaleflux.png",
+  "name": "Scaleflux",
+  "headerVideo": "https://fntech.sfo2.cdn.digitaloceanspaces.com/OCPGlobalSummitandSymposium2021/Videos/scaleflux_combined-_1.mp4",
+  "advertiseImage": "",
+  "sponsorId": 81,
+  "companyId": 68,
+  "id": 81,
+  "email": "",
+  "usesSponsorPage": true
+}

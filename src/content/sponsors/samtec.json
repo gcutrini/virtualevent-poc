@@ -1,0 +1,18 @@
+{
+  "tier": [
+    {
+      "value": "tier-Wqd0Qqef7",
+      "label": "Sapphire"
+    }
+  ],
+  "order": 14,
+  "logo": "/img/ocp21glo_fnv_sponsorlogo-samtec-.png",
+  "name": "Samtec",
+  "intro": "Samtec is exhibiting in-person at the Global Summit in San Jose, CA. You can find us at booth A22 or reach us through the \"contact us\" button above.",
+  "advertiseImage": "",
+  "sponsorId": 73,
+  "companyId": 60,
+  "id": 73,
+  "email": "jignesh.shah@samtec.com",
+  "usesSponsorPage": true
+}

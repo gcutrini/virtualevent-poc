@@ -1,0 +1,17 @@
+{
+  "tier": [
+    {
+      "value": "tier-x0OjdDZTs",
+      "label": "Topaz"
+    }
+  ],
+  "order": 3,
+  "advertiseImage": "",
+  "name": "MiTAC Computing Technology",
+  "id": 100,
+  "sponsorId": 100,
+  "logo": "/img/mitac_horizontal_mitac_logo_color.png",
+  "companyId": 86,
+  "usesSponsorPage": true,
+  "headerVideo": "https://fntech.sfo2.cdn.digitaloceanspaces.com/OCPGlobalSummitandSymposium2021/Videos/mitac_MiTAC%205G.mp4"
+}

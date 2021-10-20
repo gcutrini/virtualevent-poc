@@ -1,0 +1,18 @@
+{
+  "tier": [
+    {
+      "value": "tier-QZN1QfFuo",
+      "label": "Virtual Only"
+    }
+  ],
+  "order": 7,
+  "logo": "/img/ri.se.png",
+  "name": "RISE ",
+  "intro": "RI.SE",
+  "advertiseImage": "",
+  "sponsorId": 132,
+  "companyId": 120,
+  "id": 132,
+  "showLogoInEventPage": false,
+  "usesSponsorPage": true
+}

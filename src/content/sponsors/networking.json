@@ -1,0 +1,22 @@
+{
+  "tier": [
+    {
+      "value": "tier-1BXGYJADL",
+      "label": "Experience Center"
+    }
+  ],
+  "order": 4,
+  "marquee": "DDC orchestration with a live and a static demo.",
+  "sponsorColor": "#343895",
+  "logo": "/img/ocp21glo_fnv_expc-lobbybutton-networking.png",
+  "name": "Networking",
+  "intro": "Participating companies are Credo, DriveNets, and UFISpace.\n\n**Live Demo:** \"DDC Orchestration\" > Remotely Controlling a large DDC Cluster install in Israel \n\n**Static Demo:** 350Tb Jericho2C+ Cluster w/MACSEC > Hyperscale sized routing platform",
+  "headerImage": "/img/ocp21glo_fnv_expc-header-networking.png",
+  "headerImageMobile": "/img/ocp21glo_fnv_expc-mobileheader-networking.png",
+  "advertiseImage": "",
+  "sponsorId": 89,
+  "title": "Explore more about Networking",
+  "companyId": 75,
+  "id": 89,
+  "usesSponsorPage": true
+}

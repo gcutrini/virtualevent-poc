@@ -1,0 +1,48 @@
+{
+  "tier": [
+    {
+      "value": "tier-DHcI3dWGk",
+      "label": "Emerald"
+    }
+  ],
+  "order": 3,
+  "logo": "/img/xilinx-logo.png",
+  "name": "Xilinx",
+  "intro": "#### Xilinx delivers the Adaptive Platform for accelerated computing. Our Adaptive SoCs, accelerator cards, and FPGAs give leading-edge companies the freedom to innovate and deploy, rapidly. We partner with our customers to create scalable, differentiated and intelligent solutions from the cloud to the edge. In a world where the pace of change is accelerating, more and more innovators trust Xilinx to help them get to market faster, and with optimal efficiency and performance. For more information, visit www.xilinx.com.",
+  "advertiseImage": "",
+  "sponsorId": 61,
+  "title": "Xilinx",
+  "companyId": 44,
+  "documents": {
+    "links": [
+      {
+        "class_name": "PresentationLink",
+        "link": "https://www.linkedin.com/company/xilinx",
+        "name": "Linkedin",
+        "order": 1
+      },
+      {
+        "class_name": "PresentationLink",
+        "link": "https://www.youtube.com/user/XilinxInc",
+        "name": "Youtube",
+        "order": 2
+      },
+      {
+        "class_name": "PresentationLink",
+        "link": "https://twitter.com/XilinxInc",
+        "name": "Twitter",
+        "order": 3
+      },
+      {
+        "class_name": "PresentationLink",
+        "link": "https://www.facebook.com/XilinxInc",
+        "name": "Facebook",
+        "order": 4
+      }
+    ]
+  },
+  "id": 61,
+  "showLogoInEventPage": false,
+  "email": "sales@xilinx.com",
+  "usesSponsorPage": true
+}

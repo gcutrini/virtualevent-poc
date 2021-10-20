@@ -1,0 +1,15 @@
+{
+  "tier": [
+    {
+      "value": "tier-U_wEwGX8a",
+      "label": "Ruby"
+    }
+  ],
+  "order": 0,
+  "advertiseImage": "",
+  "showLogoInEventPage": true,
+  "name": "Ruby Level",
+  "id": 131,
+  "logo": "/img/ocp21glo_fnv_sponsorlogo-ruby.png",
+  "sponsorId": 131
+}

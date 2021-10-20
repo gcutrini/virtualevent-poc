@@ -1,0 +1,122 @@
+{
+  "tier": [
+    {
+      "value": "tier-cYGYq5-ae",
+      "label": "Diamond"
+    }
+  ],
+  "order": 3,
+  "marquee": "Visit Inspur booth# B23 to see our latest innovations in OCP that balance efficiency and power, optimized for enterprise, cloud, and AI.",
+  "externalLink": "",
+  "sponsorColor": "#0271E4",
+  "logo": "/img/ocp21glo_fnv_sponsorlogo-inspur.png",
+  "name": "Inspur",
+  "intro": "#### Inspur is a leading provider of data center infrastructure, cloud computing, and AI solutions, ranking among the world’s top 3 server manufacturers. As a platinum member of OCP and legacy member of other open data center communities, Inspur is a longtime contributor of open reference architectures and is committed to the development and advocacy of open standards. Through engineering and innovation, Inspur delivers cutting-edge hardware designs and solutions to address challenges across many different technology sectors.",
+  "headerVideo": "https://fntech.sfo2.cdn.digitaloceanspaces.com/OCPGlobalSummitandSymposium2021/Videos/inspur_OCP%20Global_Welcome%20Promo%20Video.mov",
+  "headerImageMobile": "/img/inspur_mobilebanner_768x250.jpg",
+  "advertiseImage": "/img/inspur_diamondvirtuallobbyad_484x484.jpg",
+  "sponsorId": 53,
+  "title": "Inspur ",
+  "companyId": 38,
+  "documents": {
+    "links": [
+      {
+        "class_name": "PresentationLink",
+        "link": "https://www.facebook.com/InspurUS/",
+        "name": "Inspur on Facebook",
+        "order": 1
+      },
+      {
+        "class_name": "PresentationLink",
+        "link": "https://twitter.com/inspursystems",
+        "order": 2,
+        "name": "Inspur on Twitter "
+      },
+      {
+        "class_name": "PresentationLink",
+        "link": "https://www.linkedin.com/company/inspursystems/",
+        "order": 3,
+        "name": "Linkedin"
+      },
+      {
+        "class_name": "PresentationLink",
+        "link": "https://www.youtube.com/c/InspurSystems",
+        "order": 4,
+        "name": "YouTube"
+      }
+    ],
+    "slides": [
+      {
+        "class_name": "PresentationSlide",
+        "link": "/img/inspur_ocp-2021-product-digital-handout.pdf",
+        "order": 5,
+        "name": "Inspur Product Details "
+      }
+    ],
+    "videos": [
+      {
+        "class_name": "PresentationVideo",
+        "link": "https://fntech.sfo2.cdn.digitaloceanspaces.com/OCPGlobalSummitandSymposium2021/Videos/inspur_Branding_Inspur%202020%20Business%20Performance.mp4",
+        "name": "Inspur 2020 Business Performance",
+        "order": 9
+      },
+      {
+        "class_name": "PresentationVideo",
+        "link": "https://fntech.sfo2.cdn.digitaloceanspaces.com/OCPGlobalSummitandSymposium2021/Videos/inspur_Use%20Case_Inspur%20Container%20Datacenter.mp4",
+        "name": "Use Case Inspur Container Datacenter",
+        "order": 10
+      },
+      {
+        "class_name": "PresentationVideo",
+        "link": "https://fntech.sfo2.cdn.digitaloceanspaces.com/OCPGlobalSummitandSymposium2021/Videos/inspur_Product%20Insider_NF5180M6_%201U%202-Socket%20General%20Purpose%20Open%20Compute%20Server.mp4",
+        "order": 11,
+        "name": "Product Insider NF5180M6 1U 2-Socket General Purpose Open Compute Server"
+      },
+      {
+        "class_name": "PresentationVideo",
+        "link": "https://fntech.sfo2.cdn.digitaloceanspaces.com/OCPGlobalSummitandSymposium2021/Videos/inspur_Product%20Insider_NF5280M6_%202U%202-Socket%20General%20Purpose%20Compute%20Server.mp4",
+        "order": 13,
+        "name": "Product Insider NF5280M6 2U 2-Socket General Purpose Compute Server"
+      },
+      {
+        "class_name": "PresentationVideo",
+        "link": "https://fntech.sfo2.cdn.digitaloceanspaces.com/OCPGlobalSummitandSymposium2021/Videos/inspur_Interview_Performance%20Made%20Flexible_%20Inspur%20Intel.mp4",
+        "order": 14,
+        "name": "Interview Performance Made Flexible Inspur Intel"
+      },
+      {
+        "class_name": "PresentationVideo",
+        "link": "https://fntech.sfo2.cdn.digitaloceanspaces.com/OCPGlobalSummitandSymposium2021/Videos/inspur_OCP%20Global_PPT_Practice%20in%20solution%20of%20HD%20dynamics%20susceptibility_Inspur%20Cathy%20Wang.mp4",
+        "order": 16,
+        "name": "Capability_Inspur Trusted Supply Chain Component-System Traceability"
+      },
+      {
+        "class_name": "PresentationVideo",
+        "link": "https://fntech.sfo2.cdn.digitaloceanspaces.com/OCPGlobalSummitandSymposium2021/Videos/inspur_Capability_Inspur%20Trusted%20Supply%20Chain%20Component-System%20Traceability.mp4",
+        "order": 17,
+        "name": "Capability_Inspur Intelligent Factory"
+      },
+      {
+        "class_name": "PresentationVideo",
+        "link": "https://fntech.sfo2.cdn.digitaloceanspaces.com/OCPGlobalSummitandSymposium2021/Videos/inspur_Product%20Detail_Inspur%204S%20NF8260M5%20Optimized%20Solution%20for%20Redis%20Workload.mp4",
+        "order": 19,
+        "name": "Product Detail_Inspur 4S NF8260M5 Optimized Solution for Redis Workload"
+      },
+      {
+        "class_name": "PresentationVideo",
+        "link": "https://fntech.sfo2.cdn.digitaloceanspaces.com/OCPGlobalSummitandSymposium2021/Videos/inspur_Use%20Case_Protecting%20Asian%20Elephants%20in%20the%20Wild.mp4",
+        "order": 20,
+        "name": "Use Case_Protecting Asian Elephants in the Wild"
+      }
+    ]
+  },
+  "columnAds": [
+    {
+      "link": "https://www.inspursystems.com",
+      "image": "/img/inspur_clickablesponsorad_484x484.jpg"
+    }
+  ],
+  "id": 53,
+  "email": "sales@inspursystems.com",
+  "usesSponsorPage": true
+}

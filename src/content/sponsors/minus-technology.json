@@ -1,0 +1,18 @@
+{
+  "tier": [
+    {
+      "value": "tier-yeJ3xH65E",
+      "label": "Start-up"
+    }
+  ],
+  "order": 3,
+  "logo": "/img/msp-disposal.png",
+  "name": "Minus Technology ",
+  "intro": "https://www.mspdisposal.com",
+  "advertiseImage": "",
+  "sponsorId": 106,
+  "companyId": 92,
+  "id": 106,
+  "showLogoInEventPage": false,
+  "usesSponsorPage": true
+}

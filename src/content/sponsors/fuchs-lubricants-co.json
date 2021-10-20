@@ -1,0 +1,46 @@
+{
+  "tier": [
+    {
+      "value": "tier-x0OjdDZTs",
+      "label": "Topaz"
+    }
+  ],
+  "order": 2,
+  "marquee": "Single Phase Immersion Cooling Fluids: Designed with the Data Center Industry in mind",
+  "sponsorColor": "##004e9e",
+  "logo": "/img/ocp21glo_fnv_sponsorlogo-fuchslubricants.png",
+  "name": "FUCHS LUBRICANTS CO.",
+  "intro": "FUCHS is a global leader in the development and production of comprehensive lubricant solutions, products, and services. Our RENOLIN Fluids for Electronic Component Cooling (FECC) were designed with the needs of the data center in mind. Switching to our single-phase immersion cooling can help your plant increase power rack density, reduce energy usage, reduce CO2 emissions, and cut operational costs. The RENOLIN FECC product line includes both mineral oils and synthetic fluids. Our products are safe, reliable and offer: • Excellent dielectric properties • Great heat conductivity • Protection against corrosion • Compatibility with common IT materials FUCHS provides customers with efficient, sustainable, and innovative solutions driven by our global distribution network, CO2-neutral production, and cutting-edge technology. Our commitment to research and development enables us to provide solutions for the ever-changing needs of the data center industry.",
+  "headerImage": "/img/fuchs_lubricants_co_immersion-cooling_web-banner-01.png",
+  "headerImageMobile": "/img/fuchs_lubricants_co_immersion-cooling_web-banner_mobile-01.png",
+  "advertiseImage": "",
+  "sponsorId": 122,
+  "title": "FUCHS LUBRICANTS CO.",
+  "companyId": 110,
+  "documents": {
+    "links": [
+      {
+        "class_name": "PresentationLink",
+        "link": "https://www.linkedin.com/company/fuchs-lubricants",
+        "order": 1,
+        "name": "Link"
+      },
+      {
+        "class_name": "PresentationLink",
+        "link": "https://www.youtube.com/channel/UCKIcyzRUCcvuMFKRl1G7cUw",
+        "order": 2,
+        "name": "Youtube"
+      },
+      {
+        "class_name": "PresentationLink",
+        "link": "https://www.facebook.com/fuchslubricantsco",
+        "order": 3,
+        "name": "Facebook"
+      }
+    ]
+  },
+  "id": 122,
+  "showLogoInEventPage": false,
+  "email": "Paul.Lindsey@fuchs.com",
+  "usesSponsorPage": true
+}

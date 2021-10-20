@@ -1,0 +1,98 @@
+{
+  "tier": [
+    {
+      "value": "tier-Wqd0Qqef7",
+      "label": "Sapphire"
+    }
+  ],
+  "order": 2,
+  "marquee": "Advanced Energy's Data Center Power Solutions - Accelerate and Enhance the Capabilities of Your OCP System",
+  "sponsorColor": "#2d6aa8",
+  "logo": "/img/ocp21glo_fnv_sponsorlogo-advancedenergy.png",
+  "name": "Advanced Energy",
+  "intro": "As one of the largest power supply companies in the world, Advanced Energy has many years of experience in designing and manufacturing advanced power solutions for data center, enterprise, telecom, industrial, and medical applications. We have an unmatched ability to design power conversion solutions for your specific needs. Advanced Energy's innovations for hyperscale and cloud computing data centers focus on optimizing efficiency and power density to reduce the total cost of ownership. Contact your Advanced Energy sales representative to learn how you can reduce operating costs for your data center. Our dedicated research and development and operations teams ensure swift deployment and stable operations for your program needs.",
+  "headerImage": "/img/advanced_energy_2021_ocp_banner_1440x400_v3_1008.png",
+  "headerImageMobile": "/img/advanced_energy_2021_ocp_banner_765x250_v1_1008.png",
+  "chatLink": "https://direct.lc.chat/5963291/",
+  "advertiseImage": "",
+  "sponsorId": 74,
+  "title": "Advanced Energy",
+  "companyId": 61,
+  "documents": {
+    "videos": [
+      {
+        "class_name": "PresentationVideo",
+        "link": "https://fntech.sfo2.cdn.digitaloceanspaces.com/OCPGlobalSummitandSymposium2021/Videos/advanced_energy_Harry_Soin_Final_Takes-4.mp4",
+        "name": "Harry Soin Video",
+        "order": 10
+      },
+      {
+        "class_name": "PresentationVideo",
+        "link": "https://fntech.sfo2.cdn.digitaloceanspaces.com/OCPGlobalSummitandSymposium2021/Videos/advanced_energy_Richard_Caubang-Final_Takes-5.mp4",
+        "name": "Richard Caubang Video",
+        "order": 11
+      },
+      {
+        "class_name": "PresentationVideo",
+        "link": "https://fntech.sfo2.cdn.digitaloceanspaces.com/OCPGlobalSummitandSymposium2021/Videos/advanced_energy_Andy_Brown_Final_Takes-7.mp4",
+        "order": 12,
+        "name": "Andy Brown Video"
+      }
+    ],
+    "slides": [
+      {
+        "class_name": "PresentationSlide",
+        "link": "/img/advanced_energy_eng-ep-data_center_brochure-255-01-7.14.pdf",
+        "name": "ENG-EP-Data_Center_Brochure",
+        "order": 5
+      },
+      {
+        "class_name": "PresentationSlide",
+        "link": "/img/advanced_energy_eng-crps-brochure-265-01-7.09_web.pdf",
+        "name": "ENG-CRPS-Brochure",
+        "order": 6
+      },
+      {
+        "class_name": "PresentationSlide",
+        "link": "/img/advanced_energy_eng-aep-dcdc-lga-9.07.pdf",
+        "name": "ENG-AEP-DCDC",
+        "order": 7
+      },
+      {
+        "class_name": "PresentationSlide",
+        "link": "/img/advanced_energy_en-aep-dcdc-powermodules-brochure.pdf",
+        "name": "en-aep-dcdc-powermodules-brochure",
+        "order": 8
+      }
+    ],
+    "links": [
+      {
+        "class_name": "PresentationLink",
+        "link": "https://www.linkedin.com/company/advancedenergy",
+        "order": 1,
+        "name": "LinkedIn"
+      },
+      {
+        "class_name": "PresentationLink",
+        "link": "https://twitter.com/advenergy",
+        "order": 2,
+        "name": "Twitter"
+      },
+      {
+        "class_name": "PresentationLink",
+        "link": "https://www.facebook.com/advenergyinc/",
+        "order": 3,
+        "name": "Facebook"
+      }
+    ]
+  },
+  "columnAds": [
+    {
+      "link": "https://www.artesyn.com/solutions/datacenter-infrastructure",
+      "image": "/img/advanced_energy_2021_ocp_banner_968x968_v1_1008.png"
+    }
+  ],
+  "id": 74,
+  "email": "powersales@aei.com",
+  "usesSponsorPage": true
+}

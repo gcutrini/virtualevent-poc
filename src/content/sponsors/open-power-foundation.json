@@ -1,0 +1,22 @@
+{
+  "tier": [
+    {
+      "value": "tier-hY171qXmS",
+      "label": "OpenSource Partners "
+    }
+  ],
+  "order": 3,
+  "marquee": "OpenPOWER Foundation - Supporting the Open, Free, Proven, Performant POWER Instruction Set Architecture",
+  "sponsorColor": "#2685AE",
+  "logo": "/img/ocp21glo_fnv_sponsorlogo-openpowerfoundation.png",
+  "name": "OpenPOWER Foundation",
+  "intro": "The OpenPOWER Foundation is a non-profit organization supporting the free and open RISC based instruction set architecture. We enable open community collaboration, technology advancements in the OpenPOWER ecosystem, and visibility of OpenPOWER member successes.",
+  "headerImage": "/img/openpower_openpower_welcome.png",
+  "headerImageMobile": "/img/openpower_openpower_welcome_mobile.png",
+  "advertiseImage": "",
+  "sponsorId": 114,
+  "companyId": 101,
+  "id": 114,
+  "showLogoInEventPage": false,
+  "usesSponsorPage": true
+}

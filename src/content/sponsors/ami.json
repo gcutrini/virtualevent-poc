@@ -1,0 +1,66 @@
+{
+  "tier": [
+    {
+      "value": "tier-U_wEwGX8a",
+      "label": "Ruby"
+    }
+  ],
+  "order": 1,
+  "marquee": "THE OPEN WORLD STARTS ON AMI. Our foundational technologies are how the world's machines Power Up, Stay On, and Run Secure.",
+  "sponsorColor": "#cc2027",
+  "logo": "/img/ami_ami-logo_484x484.png",
+  "name": "AMI",
+  "intro": "THE OPEN WORLD STARTS ON AMI. With AMI's opensource foundational technology, we are committed to building a community that unleashes innovation and creativity. Our solutions are how the world's machines Power Up, Stay On, and Run Secure - from on-premises to the cloud to the edge. Only AMI delivers this holistic approach to foundational technology. That's why nearly every meaningful technology company in the world relies on us. We work with multiple CPU architectures - and have been partners with silicon vendors like Intel for more than 25 years. As a result, nearly all compute platforms worldwide use firmware and software solutions from us. AMI is a key contributor to the Open Compute ecosystem and many industry associations and standards groups, such as the UEFI Forum, National Institute of Standards and Technology (NIST), National Cybersecurity Excellence Partnership (NCEP) and the Trusted Computing Group (TCG). For more information, visit ami.com and on Twitter @AMI_PR.",
+  "headerImage": "/img/ami_ocp-virtual-banner_2021_1440x400_rev2.png",
+  "headerImageMobile": "/img/ami_ocp-virtual-banner_2021_768x250.png",
+  "chatLink": "https://ami.com/ocp-global-summit",
+  "advertiseImage": "",
+  "sponsorId": 69,
+  "title": "AMI",
+  "companyId": 56,
+  "documents": {
+    "links": [
+      {
+        "class_name": "PresentationLink",
+        "link": "https://twitter.com/AMI_PR",
+        "order": 1,
+        "name": "Twitter"
+      },
+      {
+        "class_name": "PresentationLink",
+        "link": "https://www.linkedin.com/company/ami",
+        "order": 2,
+        "name": "LinkedIn"
+      },
+      {
+        "class_name": "PresentationLink",
+        "link": "https://www.youtube.com/channel/UC12o28faFg9c-3SDGn5rMew",
+        "order": 3,
+        "name": "Youtube"
+      },
+      {
+        "class_name": "PresentationLink",
+        "link": "https://www.facebook.com/AMI-112144290374420",
+        "order": 4,
+        "name": "Facebook"
+      }
+    ],
+    "slides": [
+      {
+        "class_name": "PresentationSlide",
+        "link": "/img/ami_ami_ocpsummit-infographic_q4-2021.pdf",
+        "order": 5,
+        "name": "AMI OCP Summit infographic"
+      },
+      {
+        "class_name": "PresentationSlide",
+        "link": "/img/ami_megarac_oe_data_sheet_ocp-summit2021.pdf",
+        "name": "MegaRAC OE Data Sheet OCP Summit2021",
+        "order": 6
+      }
+    ]
+  },
+  "id": 69,
+  "email": "marketing@ami.com",
+  "usesSponsorPage": true
+}

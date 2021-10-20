@@ -1,0 +1,22 @@
+{
+  "tier": [
+    {
+      "value": "tier-hY171qXmS",
+      "label": "OpenSource Partners "
+    }
+  ],
+  "order": 5,
+  "marquee": "Open source and standards for Cloud, Computational Storage, Data Management, Next Generation Storage Management, NVMe-oF, Persistent Memory, SSDs, Connectors, Transceivers, and Form Factors.",
+  "sponsorColor": "#54237f",
+  "logo": "/img/ocp21glo_fnv_sponsorlogo-snia.png",
+  "name": "SNIA",
+  "intro": "The Storage Networking Industry Association (SNIA) is a non-profit global organization dedicated to developing standards and education programs to advance storage and information technology. Over 185 companies and 2,500 member volunteers collaborate on open source and standards in the technology areas of next generation storage management, computational storage, persistent memory, solid state drives, connectors, transceivers, form factors, and more. Visit us at www.snia.org.",
+  "headerImage": "/img/snia_ocp21virtualboothtop.jpg",
+  "headerImageMobile": "/img/snia_sniawelcomeimage_ocp.jpg",
+  "advertiseImage": "",
+  "sponsorId": 7127,
+  "companyId": 115,
+  "id": 12,
+  "showLogoInEventPage": false,
+  "usesSponsorPage": true
+}

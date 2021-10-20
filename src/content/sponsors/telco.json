@@ -1,0 +1,22 @@
+{
+  "tier": [
+    {
+      "value": "tier-1BXGYJADL",
+      "label": "Experience Center"
+    }
+  ],
+  "order": 5,
+  "marquee": "Peering router demo showcasing a small VDR cluster peering with two BGP peers.",
+  "sponsorColor": "#343895",
+  "logo": "/img/ocp21glo_fnv_expc-lobbybutton-telco.png",
+  "name": "Telco",
+  "intro": "Participating companies are Arrcus, UFISpace and Credo.\n\nVirtualized Distributed Router (VDR) Small Cluster leveraging UfiSpace hardware platforms based on Broadcom J2/Ramon \n\n**Live Demo:** Show case Arrcus peering fabric; an interconnect to various servce providers, CDNs",
+  "headerImage": "/img/ocp21glo_fnv_expc-header-telco.png",
+  "headerImageMobile": "/img/ocp21glo_fnv_expc-mobileheader-telco.png",
+  "advertiseImage": "",
+  "sponsorId": 90,
+  "title": "Explore more about Telco",
+  "companyId": 76,
+  "id": 90,
+  "usesSponsorPage": true
+}

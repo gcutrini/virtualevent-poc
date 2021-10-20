@@ -1,0 +1,16 @@
+{
+  "tier": [
+    {
+      "value": "tier-hY171qXmS",
+      "label": "OpenSource Partners "
+    }
+  ],
+  "order": 0,
+  "advertiseImage": "",
+  "showLogoInEventPage": false,
+  "name": "Open Source Partner",
+  "companyId": 114,
+  "id": 126,
+  "sponsorId": 126,
+  "logo": "/img/ocp21glo_fnv_sponsorlogo-opensource.png"
+}

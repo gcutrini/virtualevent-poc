@@ -1,0 +1,21 @@
+{
+  "tier": [
+    {
+      "value": "tier-1BXGYJADL",
+      "label": "Experience Center"
+    }
+  ],
+  "order": 6,
+  "sponsorColor": "#343895",
+  "logo": "/img/ocp21glo_fnv_expc-lobbybutton-server.png",
+  "name": "Server",
+  "intro": "Server Experience Center\n\nParticipating Companies are XXXX, XXXX, XXXX, and XXXX\n\nIn the OCP NIC 3.0 experience center, our goal is to show demonstrations covering physical, logical, and functional aspects of OCP NIC 3.0 specification. Overall, we have planned seven demonstrations. We have two demonstrations showing interface sandbox with a Small Form Factor (SFF) as well as a Tall SFF NIC product respectively. We will be showing a mechanical fit-test fixture that can be used to check a physical card's compliance with OCP NIC 3.0 specification. There will be a demonstration of connectivity and manageability features of OCP NIC 3.0 specification on a Multi-Host NIC with hosts running timing and TCP applications. We also plan to showcase Fiber channel HBA in OCP NIC 3.0 form factor and a server with 12 OCP NIC 3.0 compliant slots. Finally, we will be tying both OCP NIC 3.0 and device attestation specifications by showing the attestation of OCP NIC 3.0 compliant Ethernet NIC using Secure Protocol Data Model (SPDM), one of the attestation protocols recommended by the OCP security project.",
+  "headerImage": "/img/ocp21glo_fnv_expc-header-server.png",
+  "headerImageMobile": "/img/ocp21glo_fnv_expc-mobileheader-server.png",
+  "advertiseImage": "",
+  "sponsorId": 91,
+  "title": "Explore more about Server",
+  "companyId": 77,
+  "id": 91,
+  "usesSponsorPage": true
+}

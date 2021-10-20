@@ -1,0 +1,21 @@
+{
+  "tier": [
+    {
+      "value": "tier-2HSCp6Cce",
+      "label": "Basecamp"
+    }
+  ],
+  "order": 0,
+  "sponsorColor": "#8Dc63f",
+  "logo": "/img/ocp21glo_fnv_base-logo.png",
+  "name": "OCP Basecamp",
+  "intro": "OCP Basecamp description, we will want to insert where to Basecamp is at the live event posters at the in-person event.",
+  "headerImage": "/img/ocp21glo_fnv_base-header.png",
+  "headerImageMobile": "/img/ocp21glo_fnv_base-header-mobile.png",
+  "advertiseImage": "",
+  "sponsorId": 95,
+  "title": "OCP Basecamp",
+  "companyId": 81,
+  "id": 95,
+  "usesSponsorPage": true
+}

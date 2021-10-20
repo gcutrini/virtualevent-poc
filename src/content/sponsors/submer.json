@@ -1,0 +1,16 @@
+{
+  "tier": [
+    {
+      "value": "tier-x0OjdDZTs",
+      "label": "Topaz"
+    }
+  ],
+  "order": 5,
+  "advertiseImage": "",
+  "name": "Submer",
+  "id": 99,
+  "sponsorId": 99,
+  "logo": "/img/904078ed88a252dd352f74e386e57792d81563de.png",
+  "companyId": 85,
+  "usesSponsorPage": false
+}

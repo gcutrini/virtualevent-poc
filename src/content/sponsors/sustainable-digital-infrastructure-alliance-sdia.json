@@ -1,0 +1,59 @@
+{
+  "tier": [
+    {
+      "value": "tier-hY171qXmS",
+      "label": "OpenSource Partners "
+    }
+  ],
+  "order": 4,
+  "marquee": "The SDIA is the leading platform for driving sustainability in the digital sector.",
+  "logo": "/img/ocp21glo_fnv_sponsorlogo-sdia.png",
+  "name": "Sustainable Digital Infrastructure Alliance (SDIA)",
+  "headerImage": "/img/sdia_1626338587676.jpeg",
+  "headerImageMobile": "/img/sdia_1626338587676.jpeg",
+  "advertiseImage": "",
+  "sponsorId": 113,
+  "companyId": 100,
+  "documents": {
+    "links": [
+      {
+        "class_name": "PresentationLink",
+        "link": "https://sdialliance.org",
+        "order": 1,
+        "name": "Learn More "
+      },
+      {
+        "class_name": "PresentationLink",
+        "link": "https://twitter.com/sdialliance",
+        "order": 2,
+        "name": "Twitter"
+      },
+      {
+        "class_name": "PresentationLink",
+        "link": "https://linkedin.com/company/sustainable-digital-infrastructure-alliance/",
+        "order": 3,
+        "name": "LinkedIn"
+      }
+    ],
+    "videos": [
+      {
+        "class_name": "PresentationVideo",
+        "link": "Introduction to SDIA",
+        "order": 9,
+        "name": "https://fntech.sfo2.cdn.digitaloceanspaces.com/OCPGlobalSummitandSymposium2021/Videos/sdia_Introduction%20to%20SDIA.mp4"
+      }
+    ],
+    "slides": [
+      {
+        "class_name": "PresentationSlide",
+        "link": "/img/sdia_about-sdia.pdf",
+        "name": "About SDIA",
+        "order": 5
+      }
+    ]
+  },
+  "id": 113,
+  "showLogoInEventPage": false,
+  "email": "michael.oghia@sdialliance.org",
+  "usesSponsorPage": true
+}
