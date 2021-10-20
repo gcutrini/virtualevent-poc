@@ -71,7 +71,7 @@ exports.onPreBootstrap = async () => {
                 const sponsors = JSON.parse(output);
                 const sortedSponsorsByTier = sponsors.sort((a, b) => {
                   return (
-                    sponsorsTiersOrder.indexOf(a.tier[0].label) - sponsorsTiersOrder.indexOf(b.tier[0].label);
+                    sponsorsTiersOrder.indexOf(a.tier[0].label) - sponsorsTiersOrder.indexOf(b.tier[0].label)
                   )
                 });
                 const sponsorsFile = `{ "tierSponsors": ${JSON.stringify(sortedSponsorsByTier, null, 2)} }`;
